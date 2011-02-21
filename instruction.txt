@@ -1,0 +1,4 @@
+此项目是用来测试hbm2java工具的使用。下载此工程后，需要使用ant来完成调用。操作步骤：
+1.安装ant，并指定path路径指向ant的bin目录
+2.进入命令行，并进入到此工程的目录
+3.执行ant hbm2java，在工程的bin目录下可以找到/sample/Sample.java类
